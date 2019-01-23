@@ -5,9 +5,9 @@
   xmlns:kml="http://www.opengis.net/kml/2.2" 
   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>CONCESIONES EN BAHIA DE SAMANCO</title>
+    <title>Test</title>
     <item>
-      <title>CONCESIONES EN BAHIA DE SAMANCO</title>
+      <title>Cheyenne</title>
       <description>Cheyenne is the capital and most populous city of the US state of Wyoming and the county seat of Laramie County. The population was 59,466 at the 2010 census.</description>
       <georss:point>41.146 -104.802</georss:point>
     </item>
@@ -15,11 +15,11 @@
       <title>Wyoming</title>
       <description>Wyoming is a polygon with few nodes</description>
       <georss:polygon>
-        -9.2332 -78.5461
-        -9.2332 -78.5138
-        -9.2991 -78.5138
-        -9.2991 -78.5461
-        -9.2332 -78.5461
+        41.009 -111.01 
+        41.028 -104.03 
+        44.997 -104.032 
+        45.011 -111.039
+        41.009 -111.01
       </georss:polygon>
     </item>
   </channel>
